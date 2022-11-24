@@ -60,7 +60,8 @@
                     "enum": [
                         "ncbi_16s_18s",
                         "ncbi_16s_18s_28s_ITS",
-                        "PlusPF-8"
+                        "PlusPF-8",
+                        "PlusPF-16"
                     ]
                 },
                 "sources": {
